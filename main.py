@@ -11,18 +11,9 @@ import os
 from pathlib import Path
 
 ENTRY_TEXT = (
-    "You have read a hundred voices today, each one asking to be heard first. "
-    "This one does not ask. It only sits down beside you, the way evening "
-    "comes into a room — unhurried — and lets the light go amber at the edges.\n"
-    "\n"
-    "Somewhere a kettle has gone quiet. Somewhere a chair still holds the shape "
-    "of the last person who sat in it. You know that shape by now. You have spent your "
-    "day making room for strangers, holding each sentence up to the light, "
-    "giving it the one thing it cannot give itself: a witness.\n"
-    "\n"
-    "So take this minute back. Let the next line wait. The work will still be "
-    "there, and so will you — like a field after rain, holding the water it was given, "
-    "steadier for it."
+    "A shirt lies folded on the table, one button sewn back on with thread "
+    "a shade off. The stitches are small and even. It was not like that "
+    "yesterday."
 )
 
 
