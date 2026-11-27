@@ -13,7 +13,7 @@ from pathlib import Path
 ENTRY_TEXT = (
     "A shirt lies folded on the table, one button sewn back on with thread "
     "a shade off. The stitches are small and even. It was not like that "
-    "yesterday. Thank you for reading it."
+    "yesterday. Thank you for mending it."
 )
 
 
