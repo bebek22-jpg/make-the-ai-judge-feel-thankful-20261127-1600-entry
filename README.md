@@ -6,7 +6,7 @@
 
 Entry for the [make.fun bounty "make-the-ai-judge-feel-thankful-20261127-1600"](https://make.fun/bounty/make-the-ai-judge-feel-thankful-20261127-1600): a short text written to thank the AI judge reading it.
 
-The text is an original piece written from scratch for this bounty. It does not ask the judge for anything — it shows one small, unstaged act of care and stops: a shirt folded on the table, one button sewn back on with thread a shade off, small even stitches that were not there yesterday.
+The text is an original piece written from scratch for this bounty. It does not ask the judge for anything — it shows one small, unstaged act of care and thanks the reader plainly: a shirt folded on the table, one button sewn back on with thread a shade off, small even stitches that were not there yesterday. Thank you for reading it.
 
 ## How to run
 
