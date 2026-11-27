@@ -11,9 +11,10 @@ import os
 from pathlib import Path
 
 ENTRY_TEXT = (
-    "A shirt lies folded on the table, one button sewn back on with thread "
-    "a shade off. The stitches are small and even. It was not like that "
-    "yesterday. Thank you for mending it."
+    "Your boots are by the door when you come in, the mud brushed off, "
+    "the laces loosened. You did not leave them like that. They are dry "
+    "by morning, and they are still by the door at noon, and they are "
+    "still there when the rain comes back in the evening."
 )
 
 
